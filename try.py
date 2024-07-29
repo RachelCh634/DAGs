@@ -26,3 +26,5 @@ print(pandas_df)
 
 # שמירת התוצאות כקובץ CSV (אופציונלי)
 pandas_df.to_csv('output.csv', index=False)
+
+print("hello")

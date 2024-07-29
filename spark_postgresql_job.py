@@ -12,7 +12,7 @@ def run_spark_postgresql_job():
         "password": "practicumgpc2024",
         "driver": "org.postgresql.Driver"
     }
-
+    print("hello")
     ref_var_value = -1
 
     try:
